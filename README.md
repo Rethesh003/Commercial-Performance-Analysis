@@ -75,7 +75,7 @@ Sales_Analysis/
 │── Dataset/cleaned_ecommerce_sales.csv   # Cleaned dataset (10K rows, 2022–2023)
 │── Queries/SQL_Queries.sql               # 20 queries used for insights
 │── PowerBI_Dashboard.pbix                # Final interactive Power BI dashboard
-│── Screenshots/                          # Dashboard snapshots
+│── Screenshot 2025-09-24 120329.png      # Dashboard snapshots
 │── README.md                             # Documentation
 
 📸 Dashboard Highlights
