@@ -1,4 +1,4 @@
-# SPOC- (Sales-Profit-Order-Customer)Analysis
+#Commercial Performance Analysis
 📌 Overview
 
 This project analyzes 10,000 rows of American Superstore Sales data (2022–2023) .
@@ -71,7 +71,7 @@ Power BI Desktop → Dashboard creation & storytelling
 GitHub → Portfolio hosting
 
 📂 Project Structure
-Sales_Analysis/
+Commercial Performance Analysis
 │── Dataset/cleaned_ecommerce_sales.csv   # Cleaned dataset (10K rows, 2022–2023)
 │── Queries/SQL_Queries.sql               # 20 queries used for insights
 │── PowerBI_Dashboard.pbix                # Final interactive Power BI dashboard
