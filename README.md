@@ -71,7 +71,7 @@ Power BI Desktop → Dashboard creation & storytelling
 GitHub → Portfolio hosting
 
 📂 Project Structure
-American_Sales_Analysis/
+Sales_Analysis/
 │── Dataset/cleaned_ecommerce_sales.csv   # Cleaned dataset (10K rows, 2022–2023)
 │── Queries/SQL_Queries.sql               # 20 queries used for insights
 │── PowerBI_Dashboard.pbix                # Final interactive Power BI dashboard
@@ -97,6 +97,6 @@ Standard Class shipping is most used, but Same Day is least profitable.
 
 2023 saw 12% higher sales compared to 2022.
 
-Retention is weak → 99% customers are first-time buyers.
+New customer is weak → 99% customers are old ones (returning buyers).
 
 
